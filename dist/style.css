@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    background-color: aqua;
+  }
+  
+#project-list {
+    flex: 1 1 auto;
+    width: 20%;
+    border: 1px solid #ccc;
+    /* background-color: bac; */
+}
+#todo-list {
+    flex: 1 1 auto;
+    width: 80%;
+    border: 1px solid #ccc;
+    /* background-color: bac; */
+}
